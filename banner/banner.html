@@ -1,0 +1,51 @@
+
+<div class="slideshow-container">
+
+	<div onmouseover="mode('pause')" class="mySlides fade">
+		<img src="/banner/church.jpg" alt="Outside Picture of Holy Cross Lutheran Church" width="500" heigth="333" border="1px">
+		<div class="text">Holy Cross Lutheran Church</div>
+	</div>
+
+	<div onmouseover="mode('pause')" class="mySlides fade">
+		<img src="/banner/congregation2.jpg" alt="Picture of Congregation at the 50th Anniversary Celebration" width="500" heigth="333" border="1px">
+		<div class="text">50th Anniversary Celebration</div>
+	</div>
+</div>
+<br>
+
+<div style="text-align:center">
+	<span class="dot"></span>
+	<span class="dot"></span>
+</div>
+
+<script>
+var slideIndex = 0;
+showSlides();
+
+function mode(parm) {
+  if (parm=='pause') {
+    slideIndex--;
+    if (slideIndex < 1) {slideIndex = slides.length}
+  }
+}
+
+function showSlides() {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1}
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].className += " active";
+  setTimeout(showSlides, 5000); // Change image every 5 seconds
+}
+
+</script>
+
+
