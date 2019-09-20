@@ -13,4 +13,7 @@
 		Trustees - Ron Counts, Phil Bailey, Ernie Ehlers<br>
 		Elders - Richard Record, Clint Schwarz, Keith Degner</p>
 	</div>
+
+<?php include_once('footer.html'); ?>
+
 </div>
