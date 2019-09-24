@@ -15,7 +15,7 @@
 		<p>Thrivent Financial has always been a financial partner, giving the church grants as requested by their members to support activities within the church. This has included fundraising efforts for a member, the trail ride supporting St. Jude's Hospital, rummage sales, Christmas donations for seniors, Christmas caroling, and many social meals. In years past, grants from Thrivent have purchased the white tables and chairs in the fellowship hall. Members also receive choice dollars and these can also be allocated to the church. Learn more at <a href="https://www.thrivent.com/">Thrivent.com</a>.<br></p>
 
 		<h1>Animal Barn Mission</h1>
-		<p>Contributions are placed in the bank at the end of the car in the fellowship hall for purchasing animals through the Lutheran World Relief Gifts Program. These animals are donated to under-privileged farmers in other countries. Learn more at <a href="https://lwr.org">LWR.org</a>.<br></p>
+		<p>Contributions are placed in the bank at the end of the bar in the fellowship hall for purchasing animals through the Lutheran World Relief Gifts Program. These animals are donated to under-privileged farmers in other countries. Learn more at <a href="https://lwr.org">LWR.org</a>.<br></p>
 
 		<h1>Mercy Ministries</h1>
 		<p>Through Mercy Ministries, congregation members who find themselves in a financial situation can receive assistance with their needs.<br></p>
